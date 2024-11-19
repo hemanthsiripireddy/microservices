@@ -1,4 +1,4 @@
-package com.siripireddy.accounts.service;
+package com.siripireddy.accounts.service.impl;
 
 import com.siripireddy.accounts.constants.AccountsConstants;
 import com.siripireddy.accounts.dto.AccountsDto;
@@ -18,7 +18,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
-import java.time.LocalDateTime;
 import java.util.Optional;
 import java.util.Random;
 
